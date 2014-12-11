@@ -1,4 +1,3 @@
-i-love-paloma
-=============
-
-prueba
+" Realizando 
+la guia 
+git"
